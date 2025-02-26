@@ -210,7 +210,7 @@
     </style>
 </head>
 <body>
-    <h1 class="intro-text">Luxus Hub</h1>
+    <h1 class="intro-text">Herzomi Injector</h1>
     <i class="arrow-left"> </i><!-- Стрелка слева -->
     <i class="arrow-right"> </i><!-- Стрелка справа -->
     <div class="buttons">
